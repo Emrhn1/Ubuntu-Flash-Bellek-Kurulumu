@@ -49,6 +49,9 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 10.adım = Son olarakda bir hesap oluşturuyoruz.
 
+![Ekran görüntüsü 2024-10-26 150725](https://github.com/user-attachments/assets/f4c566ce-e979-4b89-b913-0012c6d7174f)
+11.adım = Ve ubuntu kurulumunu gerçekleştirmiş olduk.
+
 
 
  
