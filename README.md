@@ -30,7 +30,7 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 ![Ekran görüntüsü 2024-10-26 144732](https://github.com/user-attachments/assets/b1a86f1f-5392-4b21-88af-518c7963561f)
 
-6.adım = Son adımda da Ubuntunun kurulumunu gerçekleştiriyoruz. Bu kısımdan önce İşletim Sisteminin dili, klavye düzeni ve wifi ayarlarını yapıyoruz ve bu ekranda ubuntuyu dene ya da ubuntuyu işletim sisteminin yanına kur seçenekleri çıkmakta ubuntuyu dene derseniz başka bir işlem yapmanıza gerek kalmaz. Ubuntuyu kur derseniz dual bootunuz olan windowsu siler ya da windowsu silmeden windowsun yanına kurabilirsiniz.
+6.adım = Son adımda da Ubuntunun kurulumunu gerçekleştiriyoruz. Bu kısımdan önce İşletim Sisteminin dili, klavye düzeni ve wifi ayarlarını yapıyoruz ve bu ekranda ubuntuyu dene ya da ubuntuyu işletim sisteminin yanına kur seçenekleri çıkmakta ubuntuyu dene derseniz başka bir işlem yapmanıza gerek kalmaz. Ubuntuyu kur derseniz ilerde seçeceğiniz seçeneklere göre dual bootunuz olan windowsu siler ya da windowsu silmeden windowsun yanına kurabilirsiniz.
 
 
 
