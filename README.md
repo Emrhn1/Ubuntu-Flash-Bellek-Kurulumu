@@ -36,6 +36,11 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
  7.adım = Windowsu silmeden Ubuntuyu nasıl kuracağınız göstercem. İlk olarak üstteki seçeneğe seçiyoruz.
 
+![Ekran görüntüsü 2024-10-26 145659](https://github.com/user-attachments/assets/4867eb65-d4d8-4190-92da-af0d2090b130)
+
+8.adım = Yine aynı şekilde üstteki seçeneği seçiyoruz.
+
+
  
 
 
