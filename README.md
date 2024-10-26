@@ -23,6 +23,10 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 4.adım = Bilgisayarı yeniden başlatıyoruz (flash belleğimiz bu sırada takılı olacak) ardından bilgisayarınızdan F2 tuşuna basarak (Bazı bilgisayarlada FN+F2 tuşu olabilir) BIOS ekranına geliyoruz ve çıkan ekranda Boot device kısmında Windows boot managerımız var ve flash belleğimizde burada windows boot managerın altında gözükecek, windows managerı alt ok yönü tuşuna basarakdan 2.sıraya flash belleğimizide 1.sıraya alıyoruz son olarakda değişiklikleri kaydedip BIOS ekranında çıkıyoruz. 
 
+![Ekran görüntüsü 2024-10-26 144213](https://github.com/user-attachments/assets/e0951584-a2dd-4259-82d0-ee0f226fefb0)
+
+5.adım = Bu ekranda eğer ilk defa kurulum yapıyorsanız biraz beklemeniz gerekecek
+
 
 
 
