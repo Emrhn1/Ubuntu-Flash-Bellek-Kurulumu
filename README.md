@@ -13,7 +13,7 @@ Ubuntuyu indirmek için: https://ubuntu.com/download/desktop#
 
 2.adım = Ardından Ubuntuyu flash belleğe kurabilmek için Rufusu indiriyoruz.
 
-Rufusu indirmek için: https://rufus.ie/tr/
+Rufusu indirmek için: https://rufus.ie/tr/ 
 
 
 
