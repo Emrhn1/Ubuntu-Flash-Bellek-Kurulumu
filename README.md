@@ -7,6 +7,14 @@ Herkese merhaba bu Repositoryde Flash Belleğe Ubuntunun nasıl kurulduğunu gö
 
 1.adım = Ubuntunun resmi sitesine gidiyoruz ve Download 24.04 e basarak Ubuntu indiriyoruz, boyutu 6 gb 
 
-Sitenin linki: https://ubuntu.com/download/desktop#
+Ubuntuyu indirmek için: https://ubuntu.com/download/desktop#
+
+![Ekran görüntüsü 2024-10-26 142643](https://github.com/user-attachments/assets/ba933d95-629d-44f5-a7ec-cd4247c66fe3)
+
+2.adım = Ardından Ubuntuyu flash belleğe kurabilmek için Rufusu indiriyoruz.
+
+Rufusu indirmek için: https://rufus.ie/tr/
+
+
 
 
