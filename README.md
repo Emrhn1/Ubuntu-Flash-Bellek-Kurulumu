@@ -15,6 +15,9 @@ Ubuntuyu indirmek için: https://ubuntu.com/download/desktop#
 
 Rufusu indirmek için: https://rufus.ie/tr/ 
 
+![Ekran görüntüsü 2024-10-26 143140](https://github.com/user-attachments/assets/2f5c7fde-a00e-4e54-ab47-c125a5ac98b7)
+
+3.adım = Rufusu açıyoruz ve Aygıt olarak Flash belleğimizi Ön yükleme seçimi olarakda indirdiğimiz İso dosyasını isterseniz sürükleyerek ya da seç diyerekden seçiyoruz ve başlata basıyoruz. İşlem yaklaşık 10 dakika sürüyor. (Bu sırada flash belleğinizi bilgisayardan çıkarmayın)
 
 
 
