@@ -19,6 +19,10 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 3.adım = Rufusu açıyoruz ve Aygıt olarak Flash belleğimizi Ön yükleme seçimi olarakda indirdiğimiz İso dosyasını isterseniz sürükleyerek ya da seç diyerekden seçiyoruz ve başlata basıyoruz. İşlem yaklaşık 10 dakika sürüyor. (Bu sırada flash belleğinizi bilgisayardan çıkarmayın)
 
+![1635412183090](https://github.com/user-attachments/assets/56d1722f-8f23-412f-bfcc-a97f4e1892cb)
+
+4.adım = Bilgisayarı yeniden başlatıyoruz (flash belleğimiz bu sırada takılı olacak) ardından bilgisayarınızdan F2 tuşuna basarak (Bazı bilgisayarlada FN+F2 tuşu olabilir) BIOS ekranına geliyoruz ve çıkan ekranda Boot device kısmında Windows boot managerımız var ve flash belleğimizde burada windows boot managerın altında gözükecek, windows managerı alt ok yönü tuşuna basarakdan 2.sıraya flash belleğimizide 1.sıraya alıyoruz 
+
 
 
 
