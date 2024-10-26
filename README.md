@@ -40,6 +40,10 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 8.adım = Yine aynı şekilde üstteki seçeneği seçiyoruz.
 
+![Ekran görüntüsü 2024-10-26 145725](https://github.com/user-attachments/assets/b0f5dba7-41a0-4566-a8a8-1a03263956a8)
+
+9.adım = Burası önemli, eğer ilk seçeneği seçersek Windows işletim sistemimizin yanına Ubuntuyu kurmuş oluruz, eğer ikinci seçeneği seçersek windows dual bootu silip direkt ana dual bootumuz ubuntu olarak değiştirebiliriz. 3.seçenek daha gelişmiş bir özellik, görmezden gelebilirsiniz.
+
 
  
 
