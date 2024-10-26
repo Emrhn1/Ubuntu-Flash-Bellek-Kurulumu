@@ -3,4 +3,8 @@
 
 Herkese merhaba bu Repositoryde Flash Belleğe Ubuntunun nasıl kurulduğunu göstereceğim
 
+![Ekran görüntüsü 2024-10-26 141243](https://github.com/user-attachments/assets/892bfad4-faa3-4a0f-9a90-5681e70bd502)
+
+Ubuntunun resmi sitesine gidiyoruz. Sitenin linki: https://ubuntu.com/download/desktop#
+
 
