@@ -25,7 +25,7 @@ Rufusu indirmek için: https://rufus.ie/tr/
 
 ![Ekran görüntüsü 2024-10-26 144213](https://github.com/user-attachments/assets/e0951584-a2dd-4259-82d0-ee0f226fefb0)
 
-5.adım = Bu ekranda eğer ilk defa kurulum yapıyorsanız biraz beklemeniz gerekecek
+5.adım = Ardından bu ekran karşınıza çıkacak. Bu ekranda eğer ilk defa kurulum yapıyorsanız biraz beklemeniz gerekecek
 
 
 
